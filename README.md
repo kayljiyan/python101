@@ -1,4 +1,4 @@
-# Welcome to [Python101](https://github.com/slidevjs/slidev)!
+# Welcome to [Python101](https://python101-tau.vercel.app/)!
 
 To start the slide show:
 
